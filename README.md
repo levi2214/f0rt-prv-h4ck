@@ -6,8 +6,6 @@
 # [Click Here To Install](https://github.com/levi2214/f0rt-prv-h4ck/files/14117529/FECURITY.zip)
 
 
-FORT-0
-
 # Screenshot
 
 ![1](https://github.com/RomeyKung/5y4gy45y54/assets/88416990/308e9f84-46ca-458f-a2d6-2ed457bc36c1)
